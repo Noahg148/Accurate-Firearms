@@ -1,0 +1,28 @@
+{
+	"version": "1.0.0",
+	"id": "Noahg148.AccurateFirearms",
+	"name": "Accurate Firearms",
+	"description": "Makes firearms 100% accurate.",
+	"authors": ["Noahg148"],
+	"frameworkVersion": "2.0.0",
+	"updateCheck": "https://raw.githubusercontent.com/Noahg148/Hitman-3-Mod-Updater/refs/heads/main/AccurateFirearms-updater.json",
+	"options": [
+		{
+			"name": "Enabled",
+			"group": "Recoil",
+			"type": "select",
+			"enabledByDefault": true,
+			"contentFolders": [
+				"Recoil"
+			]
+		},
+		{
+			"name": "Disabled",
+			"group": "Recoil",
+			"type": "select",
+			"contentFolders": [
+				"No_recoil"
+			]
+		}
+	]
+}
