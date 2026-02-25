@@ -1,0 +1,33 @@
+{
+	"version": "2.0.0",
+	"id": "Noahg148.AccurateFirearms",
+	"name": "Accurate Firearms",
+	"description": "Makes firearms 100% accurate.",
+	"authors": ["Noahg148"],
+	"frameworkVersion": "2.0.0",
+	"contentFolders": ["base"],
+	"updateCheck": "https://raw.githubusercontent.com/Noahg148/Hitman-3-Mod-Updater/refs/heads/main/AccurateFirearms-updater.json",
+	"options": [
+		{
+			"name": "Disable Recoil",
+			"tooltip": "Stops firearms from kicking up when shooting.",
+			"type": "checkbox",
+			"enabledByDefault": false,
+			"contentFolders": ["disable_recoil"]
+		},
+		{
+			"name": "Instant Bullets",
+			"tooltip": "Bullets hit targets instantly with no travel time.",
+			"type": "checkbox",
+			"enabledByDefault": false,
+			"contentFolders": ["muzzle_velocity"]
+		},
+		{
+			"name": "Accurate Shotguns",
+			"tooltip": "Removes shotgun spread so every bullet hits the same spot in the middle of the circle, making shotguns extremely powerful. Note: This makes the Freelancer 'Collateral Kill - Firearms' objective impossible to complete with shotguns.",
+			"type": "checkbox",
+			"enabledByDefault": false,
+			"contentFolders": ["shotguns"]
+		}
+	]
+}
