@@ -184,5 +184,12 @@
             "BurstAngleH": 0.0,
             "BurstAngleV": 0.0
         }
+    },
+    "23e1031b-879d-4b04-ada9-b684d9d16c22": {
+        "PrimaryConfiguration": {
+            "BurstAngleH": 0.0,
+            "BurstAngleV": 0.0
+        }
     }
+
 }
