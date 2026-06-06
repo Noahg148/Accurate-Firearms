@@ -1,5 +1,5 @@
 {
-	"version": "2.0.0",
+	"version": "2.1.0",
 	"id": "Noahg148.AccurateFirearms",
 	"name": "Accurate Firearms",
 	"description": "Makes firearms 100% accurate.",
@@ -16,7 +16,7 @@
 			"contentFolders": ["disable_recoil"]
 		},
 		{
-			"name": "Instant Bullets",
+			"name": "Instant Bullets (Hitscan)",
 			"tooltip": "Bullets hit targets instantly with no travel time.",
 			"type": "checkbox",
 			"enabledByDefault": false,
