@@ -1559,5 +1559,26 @@
 		    "RecoilZ": 0.0,
             "RecoilMax": 0.0
         }
-    }     
+    },
+    "2c2a654e-9faa-42ee-a1aa-2d84b1df06de": {
+        "PrimaryConfiguration": {
+            "RecoilX": 0.0,
+		    "RecoilZ": 0.0,
+            "RecoilMax": 0.0
+        }
+    },
+    "5a4b067f-f229-4838-aabd-c61dcd82a7ad": {
+        "PrimaryConfiguration": {
+            "RecoilX": 0.0,
+            "RecoilZ": 0.0,
+            "RecoilMax": 0.0
+        }
+    },
+    "1b73794b-ff9c-4d04-9454-4b32c9a9d2d3": {
+        "PrimaryConfiguration": {
+            "RecoilX": 0.0,
+            "RecoilZ": 0.0,
+            "RecoilMax": 0.0
+        }
+    }       
 }
