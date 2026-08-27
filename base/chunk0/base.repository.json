@@ -1806,5 +1806,29 @@
             "PrecisionUnaimedMaxDegree": 0.0,
             "PrecisionUnaimedMinDegree": 0.0
         }
-    }     
+    },  
+    "2e5f1dfd-332f-48b4-aa3b-0b4aad53f9f9": {
+        "PrimaryConfiguration": {
+            "PrecisionMaxDegree": 0.0,
+            "PrecisionMinDegree": 0.0,
+            "PrecisionUnaimedMaxDegree": 0.0,
+            "PrecisionUnaimedMinDegree": 0.0
+        }
+    },
+    "fdd80c99-d7e5-4641-99bb-1809dd084741": {
+        "PrimaryConfiguration": {
+            "PrecisionMaxDegree": 0.0,
+            "PrecisionMinDegree": 0.0,
+            "PrecisionUnaimedMaxDegree": 0.0,
+            "PrecisionUnaimedMinDegree": 0.0
+        }
+    },
+    "af703f3f-9d67-496e-bf0a-e1e3b37093dd": {
+        "PrimaryConfiguration": {
+            "PrecisionMaxDegree": 0.0,
+            "PrecisionMinDegree": 0.0,
+            "PrecisionUnaimedMaxDegree": 0.0,
+            "PrecisionUnaimedMinDegree": 0.0
+        }
+    }   
 }
