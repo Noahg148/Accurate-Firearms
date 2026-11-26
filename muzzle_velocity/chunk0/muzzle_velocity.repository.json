@@ -1158,5 +1158,15 @@
         "PrimaryConfiguration": {
             "MuzzleVelocity": 1000000.0
         }
+    },
+    "f30d692d-997a-4c9b-8230-56bccf6cc3f6": {
+        "PrimaryConfiguration": {
+            "MuzzleVelocity": 1000000.0
+        }
+    },
+    "31fea856-1c49-4599-9f35-7cad7f8cbe34": {
+        "PrimaryConfiguration": {
+            "MuzzleVelocity": 1000000.0
+        }
     }       
 }

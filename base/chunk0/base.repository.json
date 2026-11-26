@@ -1854,5 +1854,21 @@
             "PrecisionUnaimedMaxDegree": 0.0,
             "PrecisionUnaimedMinDegree": 0.0
         }
+    },
+    "f30d692d-997a-4c9b-8230-56bccf6cc3f6": {
+        "PrimaryConfiguration": {
+            "PrecisionMaxDegree": 0.0,
+            "PrecisionMinDegree": 0.0,
+            "PrecisionUnaimedMaxDegree": 0.0,
+            "PrecisionUnaimedMinDegree": 0.0
+        }
+    },
+    "31fea856-1c49-4599-9f35-7cad7f8cbe34": {
+        "PrimaryConfiguration": {
+            "PrecisionMaxDegree": 0.0,
+            "PrecisionMinDegree": 0.0,
+            "PrecisionUnaimedMaxDegree": 0.0,
+            "PrecisionUnaimedMinDegree": 0.0
+        }
     }    
 }
